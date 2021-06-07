@@ -14,7 +14,7 @@ Algoritmo Ej1
 		FinSi
 	Fin Para
 	Escribir NumPar " numeros son pares "
-	Escribir NumImpar " numeros son impares"
+	Escribir NumImpar " numeros son impares "
 	
 	
 	
