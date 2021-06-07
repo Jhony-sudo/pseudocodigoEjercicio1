@@ -1,0 +1,22 @@
+Algoritmo Ej1
+	NumPar = 0
+	NumImpar = 0
+	Escribir "Ingrese un numero"
+	Leer Num1
+	Para i<-1 Hasta Num1 Con Paso 1 Hacer
+		Num = Aleatorio(1,100)
+		Escribir Num
+		Si Num%2 = 0
+			NumPar = NumPar + 1
+		SiNo
+			NumImpar = NumImpar + 1
+			
+		FinSi
+	Fin Para
+	Escribir NumPar " numeros son pares "
+	Escribir NumImpar " numeros son impares"
+	
+	
+	
+	
+FinAlgoritmo
